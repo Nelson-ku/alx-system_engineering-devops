@@ -1,0 +1,1 @@
+0-iam_betty iwitches the current user to the user betty
